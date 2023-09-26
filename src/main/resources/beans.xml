@@ -9,7 +9,6 @@
 
     <bean id = "student" class="dependencyinjection.Student">
         <property name="cheat" ref="scienceCheat"> </property>
-
     </bean>
 
 
